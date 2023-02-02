@@ -1,0 +1,52 @@
+
+
+.container {
+    position: relative;
+    color: khaki;
+    text-align: center;
+    font-weight: bold;
+    font-family: Helvetica, 'sans-serif';
+    font-size: 100px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.header {
+    width: 100%;
+    height: 30%;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    text-align: left;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+.green {
+    background-color: mediumspringgreen;
+}
+
+.red {
+    background-color: lightcoral;
+}
+
+.blue {
+    background-color: skyblue;
+}
